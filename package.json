@@ -23,7 +23,7 @@
     },
     "homepage": "https://gitlab.com/ducdhm/reno#README",
     "dependencies": {
-        "bcrypt": "^1.0.3",
+        "bcrypt": "^5.0.0",
         "body-parser": "^1.17.2",
         "compression": "^1.7.0",
         "cookie-parser": "^1.4.3",
