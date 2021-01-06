@@ -5,7 +5,7 @@
     "homepage": "http://ducdhm.com/reno/client/build/",
     "proxy": "http://localhost:5000",
     "dependencies": {
-        "axios": "^0.18.0",
+        "axios": "^0.21.1",
         "node-sass-chokidar": "^1.2.2",
         "qs": "^6.5.1",
         "react": "^16.3.1",
